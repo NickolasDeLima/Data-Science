@@ -1,4 +1,4 @@
-## mostra os 10 filmes menos bem colocados do conjunto de dados
+## os 10 filmes menos bem colocados do conjunto de dados
 
 conjunto de dados completo:
 https://www.kaggle.com/nickao/rating-films
