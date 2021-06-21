@@ -4,9 +4,9 @@ conjunto de dados completo:
 https://www.kaggle.com/nickao/rating-films
 https://www.kaggle.com/nickao/uitem
 
-#Dados
+# Dados
 
-##u.data:
+## u.data:
 
 userID | movieID | rating | timestamp
 196	242	3	881250949
@@ -32,7 +32,7 @@ userID | movieID | rating | timestamp
 119	392	4	886176814
 167	486	4	892738452
 
-##u.item :
+## u.item :
 
 1|Toy Story (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)|0|0|0|1|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0
 2|GoldenEye (1995)|01-Jan-1995||http://us.imdb.com/M/title-exact?GoldenEye%20(1995)|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0
